@@ -78,7 +78,7 @@
     "commander": "2.9.0",
     "cross-spawn": "5.0.1",
     "del": "2.2.2",
-    "electron": "1.4.6",
+    "electron": "1.4.13",
     "electron-builder": "8.6.0",
     "electron-packager": "8.2.0",
     "glob": "7.1.1",
